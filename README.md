@@ -1,6 +1,6 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Developed a minimalist React.js accordion component with smooth expand/collapse functionality.
 
 Currently, two official plugins are available:
 
